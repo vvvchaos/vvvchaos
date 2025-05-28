@@ -3,8 +3,8 @@
 
 ```csharp
 github.com/vvvchaos
-dc   $  @l5mg
-srv  $  discord.gg/exposing
+dc   $  @proggytiny
+srv  $  discord.gg/mdi
 ```
 &zwnj; 
 &zwnj; 
